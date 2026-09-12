@@ -5,5 +5,5 @@
 - [第2周 9/7-9/13](weeklies/week2_20260907.html) / [在线预览](index.html)
 
 ## 文档
-- [SOP大全-职场通用](SOP大全-职场通用.md)
+- [SOP大全-职场通用](sop-compilation.md)
 - [五次重置-压力管理方案](docs/五次重置-压力管理方案.md)
